@@ -1,0 +1,34 @@
+ [
+      { 
+        "label": "Actual Stock M-A",
+        "value" : 29.765957771107
+      } , 
+      { 
+        "label": "Actual Stock M-B",
+        "value" : 0
+      } , 
+      { 
+        "label": "Actual Stock M-C",
+        "value" : 32.807804682612
+      } , 
+      { 
+        "label": "Actual Stock M-D",
+        "value" : 196.45946739256
+      } , 
+      { 
+        "label": "Actual Stock M-E",
+        "value" : 0.19434030906893
+      } , 
+      { 
+        "label": "Actual Stock M-F",
+        "value" : 98.079782601442
+      } , 
+      { 
+        "label": "Actual Stock M-G",
+        "value" : 13.925743130903
+      } , 
+      { 
+        "label": "Actual Stock M-H",
+        "value" : 5.1387322875705
+      }
+]

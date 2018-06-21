@@ -1,0 +1,86 @@
+[
+  {
+    "key": "Standard Stocks",
+    "color": "#d33f3f",
+    "values": [
+      { 
+        "label" : "Model A" ,
+        "value" : 22.307646510375
+      } , 
+      { 
+        "label" : "Model B" ,
+        "value" : 10.756779544553
+      } , 
+      { 
+        "label" : "Model C" ,
+        "value" : 20.451534877007
+      } , 
+      { 
+        "label" : "Model D" ,
+        "value" : 5.6142352811805
+      } , 
+      {
+        "label" : "Model E" ,
+        "value" : 3.8082472075876
+      } , 
+      { 
+        "label" : "Model F" ,
+        "value" : 7.259101026956
+      } , 
+      { 
+        "label" : "Model G" ,
+        "value" : 9.10947953487127
+      } , 
+      {
+        "label" : "Model H" ,
+        "value" : 2
+      } , 
+      { 
+        "label" : "Model I" ,
+        "value" : 0.055746319141851
+      }
+    ]
+  },
+  {
+    "key": "Actual Stock",
+    "color": "#32a1c9",
+    "values": [
+      { 
+        "label" : "Model A" ,
+        "value1" : 25.307646510375
+      } , 
+      { 
+        "label" : "Model B" ,
+        "value1" : 16.756779544553
+      } , 
+      { 
+        "label" : "Model C" ,
+        "value1" : 18.451534877007
+      } , 
+      { 
+        "label" : "Model D" ,
+        "value1" : 8.6142352811805
+      } , 
+      {
+        "label" : "Model E" ,
+        "value1" : 7.8082472075876
+      } , 
+      { 
+        "label" : "Model F" ,
+        "value1" : 5.259101026956
+      } , 
+      { 
+        "label" : "Model G" ,
+        "value1" : 12.30947953487127
+      } , 
+      { 
+        "label" : "Model H" ,
+        "value1" : 6
+      } , 
+      { 
+        "label" : "Model I" ,
+        "value1" : 1 
+      }
+    ]
+  }
+]

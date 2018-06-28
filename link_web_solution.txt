@@ -1,0 +1,9 @@
+https://stackoverflow.com/questions/46759599/how-to-show-values-of-bar-on-top-of-each-bar-in-nvd3-angular-multibarchart
+https://stackoverflow.com/questions/45115680/how-to-make-pie-chart-from-array-values
+https://stackoverflow.com/questions/44269830/multi-level-nesting-for-multi-pie-chart-interactive-using-d3
+https://bl.ocks.org/mbostock/1305111
+https://stackoverflow.com/questions/13944417/mysql-convert-column-to-row-pivot-table
+https://stackoverflow.com/questions/16359345/transposing-dynamic-columns-to-rows
+https://stackoverflow.com/questions/19055902/unpivot-with-column-name
+https://stackoverflow.com/questions/20227458/converting-column-names-to-use-as-row-fields-in-access
+https://stackoverflow.com/questions/19019453/mysql-transpose-row-into-column-and-column-into-row

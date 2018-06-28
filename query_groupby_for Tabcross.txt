@@ -1,0 +1,17 @@
+SELECT SUM( 
+CASE WHEN model =  'MODEL A'
+THEN  `Line Operation Ratio` 
+END ) AS  'MODEL_A', SUM( 
+CASE WHEN model =  'MODEL B'
+THEN  `Line Operation Ratio` 
+END ) AS  'MODEL_B'
+FROM tbl_ratio
+
+SELECT SUM( 
+CASE WHEN model =  'MODEL A'
+THEN  `Line Operation Ratio` 
+END ) AS  'MODEL_A', SUM( 
+CASE WHEN model =  'MODEL B'
+THEN  `Line Operation Ratio` 
+END ) AS  'MODEL_B'
+FROM tbl_ratio
